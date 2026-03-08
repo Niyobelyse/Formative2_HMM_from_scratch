@@ -1,0 +1,5 @@
+#add 
+#add data folder to .gitignore
+data/
+# add test folder to .gitignore
+testing_data/
